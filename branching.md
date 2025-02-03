@@ -2,4 +2,4 @@
 
 
 
-Use [this] (https://nvie.com/posts/a-successful-git-branching-model/) Branching Strategy:
+Use [this] (https://nvie.com/posts/a-successful-git-branching-model/) Branching Strategy for learning the techniques:
